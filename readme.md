@@ -1,3 +1,5 @@
+# Anime Synopsis Similarity
+
 The **Anime Synopsis Similarity Checker** is a Python program that allows users to find the most similar anime titles based on their synopses using cosine similarity. It uses a dataset with anime titles and their respective synopses to perform the similarity check.
 
 ## Usage
