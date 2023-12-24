@@ -16,4 +16,4 @@ Once the program is running, the user is prompted to enter the title of the anim
 ## Credits and Citations 
 This work uses the [Anime Recommendations Database](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020) dataset, made available by Hernan Valdivieso for the Advancement of Science and Art on Kaggle. Special thanks to Hernan Valdivieso and the dataset creators for making this data available.
 
-This program was created by [Jonatas Fernandes Andrade](https://github.com/JFA000) and [Gabriel Medina da Assunção](https://github.com/gabs4841).
+This program was created by [Gabriel Medina da Assunção](https://github.com/gabs4841) and [Jonatas Fernandes Andrade](https://github.com/JFA000).
